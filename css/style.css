@@ -1,0 +1,21 @@
+body {
+  background: #e5e4b9;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+#image-div {
+  background: #efefea;
+  padding: 10px;
+  border-radius: 1%;
+}
+#tribute-info {
+  text-align: justify;
+  margin: 0px 20px 0px 20px;
+}
+#timeline {
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+ 
+}
